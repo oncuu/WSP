@@ -1,0 +1,21 @@
+body {
+    background-color:#9198e5;
+}
+
+div
+{  background-color: rgb(173, 173, 173);
+  width: 750px;
+  height: 650px;
+  border: 2px solid rgb(67, 0, 252);
+  padding: 50px;
+  position: relative;
+ 
+} 
+.square{
+    border: 1px solid #d63d26;
+    width:2px;
+    height:2px;
+   
+}
+
+  
